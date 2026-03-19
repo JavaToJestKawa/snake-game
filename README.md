@@ -1,36 +1,18 @@
-\# Snake Game
-
-
+# Snake Game
 
 Snake game implementation using Python and Turtle graphics.
 
+## Features
+* Snake movement
+* Food collection
+* Score tracking
+* Collision detection
+* Game over screen
 
+## Technologies
+* Python
+* Turtle
 
-\## Features
-
-\* Snake movement
-
-\* Food collection
-
-\* Score tracking
-
-\* Collision detection
-
-\* Game over screen
-
-
-
-\## Technologies
-
-\* Python
-
-\* Turtle
-
-
-
-\## How to run
-
-
+## How to run
 
 python main.py
-
